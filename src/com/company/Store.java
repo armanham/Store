@@ -77,10 +77,6 @@ public class Store {
                 '}';
     }
 
-    private void sellProduct() {
-
-    }
-
     public void display() {
         int press = checkOrder();
         if (press == 1) {
